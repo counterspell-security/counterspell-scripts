@@ -1,0 +1,3 @@
+[submodule "counterspell_auth"]
+	path = counterspell_auth
+	url = git@github.com:counterspell-security/counterspell_auth.git
